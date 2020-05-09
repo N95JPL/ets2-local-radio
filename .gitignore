@@ -43,3 +43,4 @@ fabric.properties
 
 server/packages/**
 *.exe
+server/.vs/ETS2 Local Radio desktop/v16/.suo
